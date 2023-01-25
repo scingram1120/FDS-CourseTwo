@@ -20,6 +20,12 @@ Nano __file_ - opens files in editor, ctrl o, ctrl x,
 Go to finder, show path in view, open in terminal, replaces CD
 Git fetch - fetches local changes
 git log --oneline origin - tells you what was changed 
+git config --list  - Tells you what user is currently signed in
+ git config --global user.name "singram-258" - changes the username
+git config --global user.email "sci258@utexas.edu" -- changes the user email
+
+
+
 
 _____How to move to a file ____
 Move to a file
